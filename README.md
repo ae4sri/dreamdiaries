@@ -13,3 +13,20 @@ authentification purposes.
 
 It's also necessary to install the projects dependancies using "npm install". I've already created a build of the frontend (the "build" folder in the directory),
 however the non-production version of the front-end is available in the /dreamdiariesfrontend/ folder. 
+
+## Photos 
+#### What the timeline looks like (composed of publically made diaries):
+<img src="/forReadMe/publicTimeline.png">
+
+#### What the modal to create a diary looks like:
+<img src="/forReadMe/createDiary.png">
+
+#### The modal for editing a diary:
+<img src="/forReadMe/editDiary modal.png">
+
+#### Users Diary List Page:
+<img src="/forReadMe/usersDiaries.png">
+
+#### The modal that shows up with the diary text itself, when you click "Read Diary" in any of the tables:
+<img src="/forReadMe/readDiary modal.png">
+
